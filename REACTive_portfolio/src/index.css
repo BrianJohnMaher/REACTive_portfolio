@@ -1,0 +1,8 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.iconSize{
+    width: 150px;
+    height: 150px;
+}
